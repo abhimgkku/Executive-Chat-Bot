@@ -1,0 +1,9 @@
+ctransformers #for downloading quatized model
+sentence-transformers #for downloading embedding model from huggingface
+langchain
+flask
+pypdf
+python-dotenv
+faiss-cpu
+
+-e .
